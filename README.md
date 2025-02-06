@@ -27,7 +27,7 @@
                     <h2>Fullmetal Alchemist: Brotherhood</h2>
                 </li>
                 </ul>
-                <img src="fullmetal.jpeg"alt="FULLMETAL ALCHEMIST: BROTHERHOOD">
+                <img src="fullmetal.jpeg">
 
 
                 <br>
@@ -37,7 +37,7 @@
                         <h2>GINTAMA</h2>
                     </li>
                 </ul>
-<img src="𝐆𝐢𝐧𝐭𝐚𝐦𝐚.jpeg"alt="gintama">
+<img src="𝐆𝐢𝐧𝐭𝐚𝐦𝐚.jpeg">
 
 
           <br>
@@ -47,7 +47,7 @@
                 <h2>VINLAND SAGA</h2>
             </li>
         </ul>
-        <img src="download (3).jpeg"alt="vinland saga">
+        <img src="download (3).jpeg">
 
         <br>
 
@@ -56,7 +56,7 @@
                <h2> Hunter x Hunter</h2>
             </li>
         </ul>
-        <img src="download (4).jpeg"alt="Hunter x Hunter">
+        <img src="download (4).jpeg">
 
         <br>
 
@@ -65,7 +65,7 @@
                 <h2>Haikyu!!</h2>
             </li>
         </ul>
-        <img src="ʜᴀɪᴋʏᴜᴜ.jpeg"alt="haikyu!!">
+        <img src="ʜᴀɪᴋʏᴜᴜ.jpeg">
 
                   <br>
 
@@ -74,7 +74,7 @@
                         <h2>BLEACH</h2>
                     </li>
                 </ul>
-                <img src="Ichigo kurosaki - Bleach wallpaper.jpeg"alt="bleach">
+                <img src="Ichigo kurosaki - Bleach wallpaper.jpeg">
 
                 <br>
 
@@ -83,7 +83,7 @@
                        <h2> Cowboy Bebop</h2>
                     </li>
                 </ul>
-                <img src="Cowboy Bebop (1998).jpeg" alt="cowboy bepop">
+                <img src="Cowboy Bebop (1998).jpeg">
 
                 <br>
 
@@ -101,7 +101,7 @@
                                <h2> Overlord</h2>
                                 </li>
                                 </ul>
-                                <img src="_The Overlord_ The Holy Kingdom_.jpeg"alt="OverLord">
+                                <img src="_The Overlord_ The Holy Kingdom_.jpeg">
                                 
                                 </body>
 
